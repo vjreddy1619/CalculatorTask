@@ -1,9 +1,9 @@
-package com.fujitsu.app;
+package com.org.app;
 
 import java.util.Scanner;
 
-import com.fujitsu.util.Calculator;
-import com.fujitsu.util.Validator;
+import com.org.util.Calculator;
+import com.org.util.Validator;
 
 /**
  * Simple calculator

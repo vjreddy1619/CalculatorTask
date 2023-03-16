@@ -1,4 +1,4 @@
-package com.fujitsu.util;
+package com.org.util;
 
 import java.text.DecimalFormat;
 

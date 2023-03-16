@@ -1,9 +1,9 @@
-package com.fujitsu.util;
+package com.org.util;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.fujitsu.app.AppConst;
+import com.org.app.AppConst;
 
 /**
  * User input validator class

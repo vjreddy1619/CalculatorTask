@@ -1,4 +1,4 @@
-package com.fujitsu.app;
+package com.org.app;
 
 import java.util.ArrayList;
 import java.util.List;
