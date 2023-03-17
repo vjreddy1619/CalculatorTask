@@ -32,6 +32,7 @@ public class CalculatorTask {
 			// show validation messages
 			validator.displayValidatonErrors();
 		}			
-		input.close();					
+		input.close();	
+		System.out.println("Everything Ok...!");
 	}
 }
