@@ -31,6 +31,7 @@ public class CalculatorTask {
 		} else {
 			// show validation messages
 			validator.displayValidatonErrors();
+			System.out.println("Adding something");
 		}			
 		input.close();		
 	}
